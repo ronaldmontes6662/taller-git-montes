@@ -1,5 +1,5 @@
 # SECCIÓN: Entradas
-print("Bienvenido al Cajero Automático")
+print("Bienvenido al Sistema ATM de Ronald Montes")
 moneda = int(input("Ingrese Tipo de Moneda (1 para Bs, 2 para $): "))
 
 print("Monto a Solicitar")
