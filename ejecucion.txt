@@ -1,2 +1,0 @@
-ruta: C:\Users\rmontes\OneDrive - Corporación KCP, C.A\Escritorio\proyecto_cajero
-comando: python 26809449.py
